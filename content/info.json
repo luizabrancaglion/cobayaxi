@@ -1,18 +1,18 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "COMPRE NA LOJA e receba em casa"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "12X NO CARTÃO parcelamento nos cartões"
   },
   "exchange": {
     "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": "OS MELHORES PRODUTOS diversas opções"
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "LOJA CHEIA DE AMOR! confiança e segurança"
   }
 }
