@@ -422,6 +422,12 @@
     </url>
   
     <url>
+      <loc>https://cobayaxi.netlify.app/abecedarios-de-bater</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://cobayaxi.netlify.app/tramontina</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
