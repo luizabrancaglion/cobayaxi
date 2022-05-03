@@ -428,6 +428,12 @@
     </url>
   
     <url>
+      <loc>https://cobayaxi.netlify.app/abracadeiras-auto-fixavel</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://cobayaxi.netlify.app/tramontina</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
