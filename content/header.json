@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
+    "text": "Bem vindo a Cobayaxi!",
     "link": "/promotion"
   },
   "contacts_stripe": {
@@ -9,19 +9,21 @@
         "title": "Sobre nós",
         "link": "/pages/sobre-nos"
       },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
-      }
+      {}
     ],
     "phone_wpp": true,
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/tramontina?Tramontina",
+      "/irwin-ferramentas?Irwin Ferramentas",
+      "/brasfort?Brasfort",
+      "/astra?Astra"
+    ],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
-  "desktop_megamenu": false,
+  "desktop_megamenu": true,
   "search_input": true
 }
