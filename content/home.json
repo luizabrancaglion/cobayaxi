@@ -34,9 +34,9 @@
       "collection_id": null,
       "sort": "views",
       "title": "",
-      "headless": false,
-      "limit": 21,
-      "page": 4
+      "headless": true,
+      "limit": 24,
+      "page": 8
     },
     {
       "type": "page-title",
