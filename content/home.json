@@ -29,6 +29,10 @@
       "enabled": true
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/text6602.png"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "views"
