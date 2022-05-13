@@ -1,5 +1,15 @@
 {
-  "sort_categories": [],
+  "sort_categories": [
+    "cutelaria",
+    "eletrica",
+    "ferragens",
+    "hidraulica",
+    "jardinagem",
+    "limpeza",
+    "maquinas",
+    "seguranca",
+    "tintas"
+  ],
   "alphabetical_order": false,
   "phone_wpp": true,
   "socials": true
