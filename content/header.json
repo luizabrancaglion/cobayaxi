@@ -15,18 +15,8 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [
-      "/cutelaria?Cutelaria",
-      "/eletrica?ELÉTRICA",
-      "/ferragens?FERRAGENS",
-      "/hidraulica?Hidráulica",
-      "/jardinagem?Jardinagem",
-      "/limpeza?Limpeza",
-      "/maquinas?Máquinas",
-      "/seguranca?Segurança",
-      "/tintas?Tintas"
-    ],
-    "random": 0,
+    "featured": [],
+    "random": 9,
     "full_width": true
   },
   "desktop_megamenu": true,
