@@ -2,7 +2,8 @@
   "marketing_stripe": {
     "text": "Bem vindo a Cobayaxi!",
     "link": "",
-    "background": "#49549b"
+    "background": "#49549b",
+    "color": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [
