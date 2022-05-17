@@ -266,11 +266,11 @@ const hasMegamenu = header.desktop_megamenu
                     : `onclick="toggleSidenav('${slug}')"` %>
                 >
                 <% if (icon) { %>
-                  <span class="menu__item-icon">
+                  <span class="menu__item-icon mb-4">
                     <img
                       data-src="<%= icon.url %>"
                       alt="<%= icon.alt || name %>"
-                      class="lozad ml-3"
+                      class="lozad"
                     >
                     </span>
                   <% } %> <br>
