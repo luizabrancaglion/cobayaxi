@@ -16,14 +16,17 @@
   },
   "categories_list": {
     "featured": [
+      "/cutelaria?Cutelaria",
       "/eletrica?ELÉTRICA",
-      "/disjuntores?DISJUNTORES",
       "/ferragens?FERRAGENS",
-      "/abracadeiras?ABRAÇADEIRAS",
-      "/abecedarios-de-bater?ABECEDÁRIOS DE BATER",
-      "/abracadeiras-auto-fixavel?ABRAÇADEIRAS AUTO-FIXÁVEL"
+      "/hidraulica?Hidráulica",
+      "/jardinagem?Jardinagem",
+      "/limpeza?Limpeza",
+      "/maquinas?Máquinas",
+      "/seguranca?Segurança",
+      "/tintas?Tintas"
     ],
-    "random": 8,
+    "random": 0,
     "full_width": true
   },
   "desktop_megamenu": true,
