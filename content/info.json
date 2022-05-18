@@ -1,11 +1,11 @@
 {
   "shipping": {
     "show": true,
-    "text": "COMPRE NA LOJA e receba em casa"
+    "text": "Compre no site e retire na loja"
   },
   "installments": {
     "show": true,
-    "text": "12X NO CARTÃO parcelamento nos cartões"
+    "text": "Parcelamento em até 6x sem juros"
   },
   "exchange": {
     "show": true,
@@ -13,6 +13,6 @@
   },
   "promo": {
     "show": true,
-    "text": "LOJA CHEIA DE AMOR! confiança e segurança"
+    "text": "Compre com segurança 44 anos loja Física "
   }
 }
